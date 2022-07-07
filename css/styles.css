@@ -11292,5 +11292,16 @@ textarea.form-control-lg {
   width: 900vw;
   align-items: center;
   margin: auto;
-width: 40%;
+  width: 40%;
+}
+
+@media (max-width: 1000px) {
+
+      .a-single-memory {
+        width: 900vw;
+        align-items: center;
+        margin: auto;
+        width: 90%;
+       }
+
 }
