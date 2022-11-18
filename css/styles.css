@@ -11305,3 +11305,24 @@ textarea.form-control-lg {
        }
 
 }
+
+.symulacje{
+
+  margin-right: 250px;
+  margin-top: -240px;
+}
+
+.opisy{
+
+  margin-left: -10px !important;
+}
+
+.symulator{
+font-size: 7vw;
+  position: absolute;
+  /* opacity: 0.6; */
+  margin-left: 320px;
+  margin-top: -66px;
+  z-index: 12312312312;
+  width: 100vw;
+}
